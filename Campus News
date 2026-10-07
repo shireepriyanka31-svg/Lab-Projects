@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>Campus News</title>
+    </head>
+    <body>
+        <h1>Campus News</h1>
+        <h2>First-Year Welcome Day</h2>
+        <img src="d:\JSP\Software fundamentals 1051\Assignments\university.jpg" alt="University of Sri Jayewardenapura" width="350">
+        <p>Our university is organising a welcome day for first-year students.<br>Date: 10 October 2026<br>Place: Main Hall</p>
+        <hr>
+        <h3>What to Bring</h3>
+        <ul>
+            <li>Student ID</li>
+            <li>Notebook</li>
+            <li>Water bottle</li>
+        </ul>
+        <h3>How to Join</h3>
+        <ol>
+            <li>1. Come to the Main Hall.</li>
+            <li>2. Write your name at the entrance.</li>
+        </ol>
+        <h3>Programme</h3>
+        <table border="1">
+            <tr>
+                <th>Time</th>
+                <th>Activity</th>
+            </tr>
+            <tr>
+                <td>9:00 AM</td>
+                <td>Welcome Speech</td>
+            </tr>
+            <tr>
+                <td>09:30 AM</td>
+                <td>Campus Tour</td>
+            </tr>
+        </table>
+    <a href="https://www.sjp.ac.lk/" target="_blank">Visit our university website</a>
+</html>
